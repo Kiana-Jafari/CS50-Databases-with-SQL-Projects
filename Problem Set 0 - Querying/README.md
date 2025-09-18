@@ -4,7 +4,7 @@ This repository contains my solutions for **CS50’s Introduction to Databases w
 
 ---
 
-## 📂 Projects Overview  
+## Projects Overview  
 
 ### 1. Cyberchase  
 - **Database:** `cyberchase.db`  
@@ -35,18 +35,18 @@ This repository contains my solutions for **CS50’s Introduction to Databases w
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Language:** SQL  
-- **Tools:** SQLite  
+- **Tools:** SQLite3 
 - **Course:** [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)  
 
 ---
 
-## 🚀 Getting Started  
+## Getting Started  
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/cs50-sql-pset0.git
+   git clone https://github.com/Kiana-Jafari/cs50-sql-pset0.git
    cd cs50-sql-pset0
    ```  
 
@@ -61,6 +61,6 @@ This repository contains my solutions for **CS50’s Introduction to Databases w
 
 ---
 
-## 📖 Acknowledgements  
+## Acknowledgements  
 - Problem sets and databases provided by **CS50’s Introduction to Databases with SQL**.  
 - Data and context from PBS, Japanese art history, and MLB records were used as the basis for the assignments.  
