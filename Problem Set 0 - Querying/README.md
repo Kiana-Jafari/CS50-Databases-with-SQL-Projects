@@ -42,25 +42,20 @@ This repository contains my solutions for **CS50’s Introduction to Databases w
 
 ---
 
-## Getting Started  
+## Getting Started 
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Kiana-Jafari/cs50-sql-pset0.git
-   cd cs50-sql-pset0
-   ```  
-
-2. Open the database file in SQLite:  
+2. Open the database file in SQLite/VSCode:  
    ```bash
    sqlite3 cyberchase.db
    sqlite3 views.db
    sqlite3 players.db
-   ```  
-
+   ```
+  **Please note that you should have installed SQL on your local machine if you intend to run the above commands on your terminal.**
+  
 3. Run the queries stored in the respective `.sql` files to explore the data.  
 
 ---
 
 ## Acknowledgements  
-- Problem sets and databases provided by **CS50’s Introduction to Databases with SQL**.  
+- Problem sets and databases provided by [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/).  
 - Data and context from PBS, Japanese art history, and MLB records were used as the basis for the assignments.  
