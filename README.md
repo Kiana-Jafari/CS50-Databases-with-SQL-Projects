@@ -1,7 +1,7 @@
 # CS50 SQL Projects Repository
 
 Welcome!
-This repository contains my solutions and explorations for **CS50’s Introduction to Databases with SQL**. Throughout the course, I’ve been tackling problem sets and projects designed to strengthen my understanding of **SQL**, **data modeling**, and **database design principles**.
+This repository contains my solutions and explorations for **CS50’s Introduction to Databases with SQL**. Throughout the course, I’ve been solving real-world problem sets and projects designed to strengthen my understanding of **SQL** and **database design principles**.
 
 ---
 
@@ -15,11 +15,11 @@ Each project folder corresponds to a problem set or assignment from the course a
 
 ## Contents
 - **Problem Set 0**
-  - [Cyberchase](./pset0/cyberchase)  
+  - [Cyberchase](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/feaf0a2e1f94bcb4340100639ad8c9678f8c7c54/Problem%20Set%200%20-%20Querying/Cyberchase)  
     Querying episode data from the PBS series *Cyberchase*.  
-  - [36 Views](./pset0/36-views)  
+  - [36 Views](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/feaf0a2e1f94bcb4340100639ad8c9678f8c7c54/Problem%20Set%200%20-%20Querying/36%20Views)  
     Working with a dataset inspired by Hokusai’s *Thirty-Six Views of Mount Fuji*.  
-  - [Players](./pset0/players)  
+  - [Players](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/feaf0a2e1f94bcb4340100639ad8c9678f8c7c54/Problem%20Set%200%20-%20Querying/Players)  
     Exploring sports data through relational queries.  
 
 *(More problem sets and projects will be added as I progress through the course.)*
