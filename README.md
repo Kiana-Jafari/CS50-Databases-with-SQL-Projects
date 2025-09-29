@@ -19,8 +19,7 @@ Each project folder corresponds to a problem set or assignment from the course a
     Querying episode data from the PBS series *Cyberchase*.  
   - [36 Views](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/feaf0a2e1f94bcb4340100639ad8c9678f8c7c54/Problem%20Set%200%20-%20Querying/36%20Views)  
     Working with a dataset inspired by Hokusai’s *Thirty-Six Views of Mount Fuji*.  
-  - [Players](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/feaf0a2e1f94bcb4340100639ad8c9678f8c7c54/Problem%20Set%200%20-%20Querying/Players) 
-
+  - [Players](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/feaf0a2e1f94bcb4340100639ad8c9678f8c7c54/Problem%20Set%200%20-%20Querying/Players)
     Exploring sports data through relational queries.
 
 - **Problem Set 1**
