@@ -46,4 +46,4 @@ This repository is a learning journey. While solutions are my own, they are infl
 
 ## Acknowledgements
 - **Course:** [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
-- Problem sets and databases provided by **CS50’s Introduction to Databases with SQL**.
+- Problem sets and databases are provided by **CS50’s Introduction to Databases with SQL**.
