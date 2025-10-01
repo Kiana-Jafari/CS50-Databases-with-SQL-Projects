@@ -26,7 +26,7 @@ CREATE TABLE users (
 CREATE TABLE schools (
     "id" INTEGER,
     "name" TEXT NOT NULL,
-    "type" TEXT NOT NULL,
+    "type" TEXT NOT NULL CHECK("type" IN ('Elementary School', 'Middle School', 'High School', 'Lower School', 'Upper School', 'College', 'University')),
     "location" TEXT NOT NULL,
     "year" INTEGER NOT NULL,
     PRIMARY KEY("id")
@@ -43,7 +43,7 @@ CREATE TABLE schools (
 CREATE TABLE companies (
     "id" INTEGER,
     "name" TEXT NOT NULL,
-    "industry" TEXT NOT NULL,
+    "industry" TEXT NOT NULL CHECK("industry" IN ('Education', 'Technology', 'Finance')),
     "location" TEXT NOT NULL,
     PRIMARY KEY("id")
 );
@@ -69,7 +69,7 @@ CREATE TABLE connections (
     "company_id" INTEGER,
     "start_date" NUMERIC,
     "end_date" NUMERIC,
-    "degree" TEXT,
+    "degree" TEXT CHECK("degree" IN ('BA', 'MA', 'PhD')),
     "job_title" TEXT,
     PRIMARY KEY("id"),
     FOREIGN KEY("user_id") REFERENCES users("id"),
