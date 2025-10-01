@@ -46,5 +46,4 @@ This repository is a learning journey. While solutions are my own, they are infl
 
 ## Acknowledgements
 - **Course:** [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
-- Problem sets and databases provided by **CS50’s Introduction to Databases with SQL**.  
-- Data and context from PBS, Japanese art history, and MLB records were used as the basis for the assignments.
+- Problem sets and databases provided by **CS50’s Introduction to Databases with SQL**.
