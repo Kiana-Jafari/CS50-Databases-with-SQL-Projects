@@ -64,6 +64,15 @@ CREATE TABLE flights (
     );
 
 /*
+Sample Data
+
+Your database should be able to represent…
+
+A passenger, Amelia Earhart, who is 39 years old
+An airline, Delta, which operates out of concourses A, B, C, D, and T
+A flight, Delta Flight 300, which is expected to depart from ATL on August 3rd, 2023 at 6:46 PM and arrive at BOS on August 3rd, 2023 at 9:09 PM
+A check-in for Amelia Earhart, for Delta Flight 300, on August 3rd, 2023 at 3:03 PM
+
 INSERT INTO passengers
 VALUES (12, 'Amelia', 'Earhart', 39);
 
