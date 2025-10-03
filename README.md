@@ -41,7 +41,7 @@ Each project folder corresponds to a problem set or assignment from the course a
 - **Problem Set 3**
   - [Don’t Panic!](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/221aae45547249ba5b149434e02f7a048b9f0e4b/Problem%20Set%203%20-%20Writing/Don't%20Panic!)  
     Simulated pentest of a SQLite-backed website: modify admin credentials, erase logs, and insert deceptive data (ethics emphasized).
-  - [Meteorite Cleaning](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/221aae45547249ba5b149434e02f7a048b9f0e4b/Problem%20Set%203%20-%20Writing/Meteorite%20Cleaning)  
+  - [Meteorite Cleaning](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/3b7b632617b3b68ffc0351908e88a8bda3bd6b6c/Problem%20Set%203%20-%20Writing/Meteorite%20Cleaning)  
     Importing and cleaning historical meteorite landing data into SQLite for downstream analysis.
 
 *(More problem sets and projects will be added as I progress through the course.)*
