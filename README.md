@@ -31,11 +31,11 @@ Each project folder corresponds to a problem set or assignment from the course a
     Finding high-value baseball players for the Oakland Athletics using `moneyball.db`.
 
 - **Problem Set 2**
-  - [ATL](./pset1/atl)  
+  - [ATL](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/blob/56fa1007563cfa3335933b17590caec8b456f53a/Problem%20Set%202%20-%20Designing/ATL.sql)  
     Designing a passenger and flights database for the world’s busiest airport.  
-  - [Happy to Connect](./pset1/connect)  
+  - [Happy to Connect](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/blob/56fa1007563cfa3335933b17590caec8b456f53a/Problem%20Set%202%20-%20Designing/connect.sql)  
     Modeling a social networking platform similar to LinkedIn.  
-  - [Union Square Donuts](./pset1/donuts)  
+  - [Union Square Donuts](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/blob/56fa1007563cfa3335933b17590caec8b456f53a/Problem%20Set%202%20-%20Designing/donuts.sql)  
     Building a database for customer orders and operations at a donut shop. 
 
 *(More problem sets and projects will be added as I progress through the course.)*
