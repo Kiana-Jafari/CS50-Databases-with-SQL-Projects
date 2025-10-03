@@ -30,6 +30,14 @@ Each project folder corresponds to a problem set or assignment from the course a
   - [Moneyball](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/0702d6d72c5da0f7b1df8960e0c6328ba90bbcf7/Problem%20Set%201%20-%20Relating/Moneyball)  
     Finding high-value baseball players for the Oakland Athletics using `moneyball.db`.
 
+- **Problem Set 2**
+  - [ATL](./pset1/atl)  
+    Designing a passenger and flights database for the world’s busiest airport.  
+  - [Happy to Connect](./pset1/connect)  
+    Modeling a social networking platform similar to LinkedIn.  
+  - [Union Square Donuts](./pset1/donuts)  
+    Building a database for customer orders and operations at a donut shop. 
+
 *(More problem sets and projects will be added as I progress through the course.)*
 
 ---
