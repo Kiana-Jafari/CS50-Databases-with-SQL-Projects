@@ -39,9 +39,9 @@ Each project folder corresponds to a problem set or assignment from the course a
     Building a database for customer orders and operations at a donut shop.
 
 - **Problem Set 3**
-  - [Don’t Panic!](./pset3/dont_panic)  
+  - [Don’t Panic!](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/221aae45547249ba5b149434e02f7a048b9f0e4b/Problem%20Set%203%20-%20Writing/Don't%20Panic!)  
     Simulated pentest of a SQLite-backed website: modify admin credentials, erase logs, and insert deceptive data (ethics emphasized).
-  - [Meteorite Cleaning](./pset3/meteorite_cleaning)  
+  - [Meteorite Cleaning](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/221aae45547249ba5b149434e02f7a048b9f0e4b/Problem%20Set%203%20-%20Writing/Meteorite%20Cleaning)  
     Importing and cleaning historical meteorite landing data into SQLite for downstream analysis.
 
 *(More problem sets and projects will be added as I progress through the course.)*
