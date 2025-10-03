@@ -36,7 +36,13 @@ Each project folder corresponds to a problem set or assignment from the course a
   - [Happy to Connect](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/blob/56fa1007563cfa3335933b17590caec8b456f53a/Problem%20Set%202%20-%20Designing/connect.sql)  
     Modeling a social networking platform similar to LinkedIn.  
   - [Union Square Donuts](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/blob/56fa1007563cfa3335933b17590caec8b456f53a/Problem%20Set%202%20-%20Designing/donuts.sql)  
-    Building a database for customer orders and operations at a donut shop. 
+    Building a database for customer orders and operations at a donut shop.
+
+- **Problem Set 3**
+  - [Don’t Panic!](./pset3/dont_panic)  
+    Simulated pentest of a SQLite-backed website: modify admin credentials, erase logs, and insert deceptive data (ethics emphasized).
+  - [Meteorite Cleaning](./pset3/meteorite_cleaning)  
+    Importing and cleaning historical meteorite landing data into SQLite for downstream analysis.
 
 *(More problem sets and projects will be added as I progress through the course.)*
 
