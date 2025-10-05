@@ -94,13 +94,6 @@ WHERE "nametype" = 'Relict';
 
 -- 4. The meteorites are sorted by year, oldest to newest, and then—
     -- if any two meteorites landed in the same year—by name, in alphabetical order.
-
-
-SELECT *
-FROM "test"
-ORDER BY "year" ASC, "name" ASC
-LIMIT 5;
-
 -- 5. You’ve updated the IDs of the meteorites from meteorites.csv, according to the order specified in #4.
     -- The id of the meteorites should start at 1, beginning with the meteorite that landed in the oldest year and is the first in alphabetical order for that year.
 
