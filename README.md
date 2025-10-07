@@ -44,6 +44,14 @@ Each project folder corresponds to a problem set or assignment from the course a
   - [Meteorite Cleaning](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/3b7b632617b3b68ffc0351908e88a8bda3bd6b6c/Problem%20Set%203%20-%20Writing/Meteorite%20Cleaning)  
     Importing and cleaning historical meteorite landing data into SQLite for downstream analysis.
 
+- **Problem Set 4**
+  - [Census Taker](./pset4/census)  
+    Creating demographic views from Nepal’s census database.  
+  - [The Private Eye](./pset4/private_eye)  
+    Extracting hidden messages through SQL-based cipher decoding.  
+  - [Bed and Breakfast](./pset4/bnb)  
+    Building analytical views to study AirBnB’s impact on Boston.
+
 *(More problem sets and projects will be added as I progress through the course.)*
 
 ---
