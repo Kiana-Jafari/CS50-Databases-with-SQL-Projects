@@ -29,5 +29,4 @@ In this project, you’ll work with a simulated **course registration database**
 ---
 
 ## Notes
-Please note that the database of the project **your.harvard** is not included, due to its large size. Only the `.sql` file and project structure are uploaded, which can be found in `indexes.sql`.
-This problem set focuses on the **efficiency side of SQL** — writing faster queries and designing databases that scale.  
+Please note that the database of the project **your.harvard** is not included, due to its large size. Only the `.sql` file, project structure, and the queries are uploaded, which can be found in `indexes.sql`.
