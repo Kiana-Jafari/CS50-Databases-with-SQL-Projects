@@ -52,6 +52,12 @@ Each project folder corresponds to a problem set or assignment from the course a
   - [Bed and Breakfast](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/ee54d8aafae52539771083ca97916d7aa8d6f735/Problem%20Set%204%20-%20Viewing/Airbnb)  
     Building analytical views to study Airbnb’s impact on Boston.
 
+- **Problem Set 5**
+  - [In a Snap](./pset5/in_a_snap)  
+    Writing optimized SQL queries for a fast, Snapchat-style messaging app.  
+  - [your.harvard](./pset5/your_harvard)  
+    Implementing indexes to improve the performance of course registration queries.
+
 *(More problem sets and projects will be added as I progress through the course.)*
 
 ---
