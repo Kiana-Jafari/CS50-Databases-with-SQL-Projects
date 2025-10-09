@@ -52,19 +52,27 @@ Each project folder corresponds to a problem set or assignment from the course a
   - [Bed and Breakfast](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/ee54d8aafae52539771083ca97916d7aa8d6f735/Problem%20Set%204%20-%20Viewing/Airbnb)  
     Building analytical views to study Airbnb’s impact on Boston.
 
+- **Problem Set 5**
+  - [In a Snap](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/dd3c6d09c71cf886a62886d0c668f798544ce318/Problem%20Set%205%20-%20Optimizing/In%20a%20Snap)  
+    Writing optimized SQL queries for a fast, Snapchat-style messaging app.  
+  - [your.harvard](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/blob/dd3c6d09c71cf886a62886d0c668f798544ce318/Problem%20Set%205%20-%20Optimizing/indexes.sql)  
+    Implementing indexes to improve the performance of course registration queries.
+
 *(More problem sets and projects will be added as I progress through the course.)*
 
 ---
 
 ## Technologies
+- Command-line tools for interacting with databases
 - **SQLite3** (primary database engine used in the course)  
-- SQL queries for data retrieval, transformation, and analysis  
-- Command-line tools for interacting with databases  
+- **SQL** queries for data retrieval, transformation, and analysis  
+- **CS50 Query Tools** for testing performance and correctness
 
 ---
 
 ## Notes
-This repository is a learning journey. While solutions are my own, they are influenced by the structure and requirements of CS50 SQL’s curriculum.  
+1. This repository is a learning journey. While solutions are my own, they are influenced by the structure and requirements of CS50 SQL’s curriculum.
+2. Please note that you can find the data resources with their associated links in the `Data` folder, right in this repository.
 
 ## Acknowledgements
 - **Course:** [CS50’s Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
