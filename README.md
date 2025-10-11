@@ -58,13 +58,20 @@ Each project folder corresponds to a problem set or assignment from the course a
   - [your.harvard](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/blob/dd3c6d09c71cf886a62886d0c668f798544ce318/Problem%20Set%205%20-%20Optimizing/indexes.sql)  
     Implementing indexes to improve the performance of course registration queries.
 
-*(More problem sets and projects will be added as I progress through the course.)*
+- **Problem Set 6**
+  - [Happy to Connect — sentimental-connect](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/2fcc07ef20cac86498b2cf6ee2e903752bfbf189/Problem%20Set%206%20-%20Scaling/Sentimental%20Connect)  
+    Design a MySQL schema for a production-scale professional network.  
+  - [From the Deep](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/2fcc07ef20cac86498b2cf6ee2e903752bfbf189/Problem%20Set%206%20-%20Scaling/From%20the%20Deep)  
+    Analyze distributed database designs for high-rate oceanographic observations.  
+  - [Don’t Panic! (automation)](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/2fcc07ef20cac86498b2cf6ee2e903752bfbf189/Problem%20Set%206%20-%20Scaling/Don't%20Panic%20-%20Python)  
+    Automate a controlled database modification via Python for a simulated pentest.
 
 ---
 
 ## Technologies
 - Command-line tools for interacting with databases
-- **SQLite3** (primary database engine used in the course)  
+- **SQLite3** (Primary database engine used in the course)
+- **MySQL** (Used for Problem Set 6, [Scaling](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects/tree/2fcc07ef20cac86498b2cf6ee2e903752bfbf189/Problem%20Set%206%20-%20Scaling)) 
 - **SQL** queries for data retrieval, transformation, and analysis  
 - **CS50 Query Tools** for testing performance and correctness
 
