@@ -58,7 +58,7 @@ ER diagram (ASCII):
                            | reading_time|
                            | date        |
                            | engagement_score |
-                           | is_discussion     |
+                           |
                            +-------------+
 ```
 
@@ -108,5 +108,5 @@ project-root/
 ├─ DESIGN.md            <-- this document
 ├─ medium.sql           <-- schema + import + cleaning + queries (provided)
 ├─ data.csv             <-- the main data
-├─ ER-diagram.png       <-- optional visual ER diagram
+├─ medium-articles.db   <-- the medium database
 ```
