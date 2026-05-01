@@ -349,7 +349,8 @@ WHERE "claps" = (
 AND "responses" = (
     SELECT MAX("responses")
     FROM "medium_data"
-    );
+    )
+AND "publication" = 'The Startup';
 
 /*
 +------+-------------------------------------------------------------+
